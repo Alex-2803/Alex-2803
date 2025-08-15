@@ -1,6 +1,6 @@
 # Hi there, I'm Alexander F. Novenario 👋
 
-### Software Engineer 
+<h3 align="center"> Software Engineer</h3> 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alex-2803&label=Profile%20views&color=0e75b6&style=flat" alt="alex-2803" /> 
