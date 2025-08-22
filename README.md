@@ -1,8 +1,8 @@
-# Hi there, I'm Alexander F. Novenario 👋
+# Hi there, I'm Alexander F. Novenario <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <h3 align="center"> Software Engineer</h3> 
 
-<p align="center">
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=alex-2803&label=Profile%20views&color=0e75b6&style=flat" alt="alex-2803" /> 
   <a href="https://github.com/alex-2803?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/alex-2803?color=green&logo=github">
